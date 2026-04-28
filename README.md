@@ -25,7 +25,8 @@ Usage
 
 SQL Injection Demo  
 * Try this payload:
-*   admin
+  admin
+  
 This bypasses authentication in the vulnerable login.
 
 
