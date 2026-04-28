@@ -30,3 +30,8 @@ STEP 2: Install Requirements
   
   Create requirements.txt:
   Flask
+
+# Create Database  
+STEP 3: Create Database  
+
+Run Python shell
