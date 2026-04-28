@@ -53,6 +53,7 @@ STEP 6: Run Project
 
 # SQL Injection
 STEP 7: Test SQL Injection  
+
   Try login with:  
     username: admin'  
     password: anything
