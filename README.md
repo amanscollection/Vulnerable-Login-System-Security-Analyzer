@@ -35,3 +35,6 @@ STEP 2: Install Requirements
 STEP 3: Create Database  
 
 Run Python shell
+
+# Flask App
+STEP 4: Main Flask App (app.py)
