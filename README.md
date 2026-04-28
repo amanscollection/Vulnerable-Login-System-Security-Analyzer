@@ -15,7 +15,7 @@ Tech Stack
 * SQLite
 
 Installation  
-* git clone https://github.com/yourusername/cyber-flask-app.git
+* git clone https://github.com/amanscollection/cyber-flask-app.git
 * cd cyber-flask-app
 * pip install -r requirements.txt
 * python app.py
