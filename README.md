@@ -22,3 +22,5 @@ cyber-flask-app/
 │── static/  
 │── requirements.txt  
 │── README.md  
+
+STEP 2: Install Requirements
