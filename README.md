@@ -39,6 +39,17 @@ Run Python shell
 # Flask App
 STEP 4: Main Flask App (app.py)
 
-# HTML Templates  
+# HTML and dashboard Templates  
 STEP 5: HTML Templates  
-  login.html
+  login.html  
+  dashboard.html  
+
+# Run Python Project  
+STEP 6: Run Project  
+  python app.py  
+
+  Open: http://127.0.0.1:5000  
+
+# SQL Injection
+STEP 7: Test SQL Injection
+
