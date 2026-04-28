@@ -24,3 +24,7 @@ cyber-flask-app/
 │── README.md  
 
 STEP 2: Install Requirements
+  pip install flask
+  
+  Create requirements.txt:
+  Flask
