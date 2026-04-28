@@ -93,3 +93,6 @@ STEP 7: Test SQL Injection
 Error:  
 <img width="1403" height="856" alt="image" src="https://github.com/user-attachments/assets/8828a1ca-4ea6-417c-8066-ab1756f8a91c" />
 
+  
+Author  
+Amandeep Singh
