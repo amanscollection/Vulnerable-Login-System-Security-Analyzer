@@ -38,3 +38,7 @@ Run Python shell
 
 # Flask App
 STEP 4: Main Flask App (app.py)
+
+# HTML Templates  
+STEP 5: HTML Templates  
+  login.html
