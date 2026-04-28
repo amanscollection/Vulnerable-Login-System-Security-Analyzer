@@ -1,4 +1,4 @@
-# H1 Cybersecurity Flask App
+# H1 - Cybersecurity Flask App
 
 **Overview**  
 This project is a vulnerable web application built using Flask to demonstrate common security flaws such as SQL Injection and how to fix them using secure coding practices.  
