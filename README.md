@@ -1,3 +1,34 @@
+Cybersecurity Flask App 
+
+Overview  
+This project is a vulnerable web application built using Flask to demonstrate common security flaws such as SQL Injection and how to fix them using secure coding practices.  
+
+Features  
+* Vulnerable Login System (SQL Injection)
+* Secure Login System (Parameterized Queries)
+* Logging of Login Attempts
+* Simple Dashboard
+
+Tech Stack  
+* Python
+* Flask
+* SQLite
+
+Installation  
+* git clone https://github.com/yourusername/cyber-flask-app.git
+* cd cyber-flask-app
+* pip install -r requirements.txt
+* python app.py
+
+Usage  
+* Open browser: http://127.0.0.1:5000  
+
+SQL Injection Demo  
+* Try this payload:
+*   admin
+This bypasses authentication in the vulnerable login.
+
+
 # Vulnerable-Login-System-Security-Analyzer
 Built using Flask while Vulnerable Login System + Security Analyzer problem-solutions.
 
