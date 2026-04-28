@@ -11,14 +11,14 @@ This project demonstrates:
 # Project Structure
 STEP 1: Project Structure
 
-cyber-flask-app/
-│── app.py
-│── database.db
-│── templates/
-│   ├── login.html
-│   ├── dashboard.html
-│── logs/
-│   └── access.log
-│── static/
-│── requirements.txt
-│── README.md
+cyber-flask-app/  
+│── app.py  
+│── database.db  
+│── templates/  
+│   ├── login.html  
+│   ├── dashboard.html  
+│── logs/  
+│   └── access.log  
+│── static/  
+│── requirements.txt  
+│── README.md  
